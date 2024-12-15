@@ -81,7 +81,7 @@ void loop() {
 ## 📸 Gallery  
 
 - 📷 **Bot**: ![Bot](/Bot.jpeg)  
-- 🏅 **Certificate of Achievement**: [Project Documentation](/Certificate.pdf)
+- 🏅 **Certificate of Achievement**: ![Certificate](/Certificate.jpg)
   
 
 ---
