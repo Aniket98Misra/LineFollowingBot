@@ -29,7 +29,8 @@ This project is a high-performance **line-following robot** built with Arduino, 
 
 ## 🔌 Circuit Diagram  
 
-*(Include a detailed circuit diagram or schematic showing connections between components.)*  
+*![Diagram](../CircuitDiagram.jpeg)
+*  
 
 ---
 
