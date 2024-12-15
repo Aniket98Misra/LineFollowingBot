@@ -29,8 +29,8 @@ This project is a high-performance **line-following robot** built with Arduino, 
 
 ## 🔌 Circuit Diagram  
 
-*![Diagram](/CircuitDiagram.jpeg)
-*  
+![Diagram](/CircuitDiagram.jpeg)
+  
 
 ---
 
@@ -70,9 +70,9 @@ void loop() {
 
 ## 🏅 Competition Details  
 
-- **Event Name**: [Insert competition name]  
+- **Event Name**: Line following robot race course  
 - **Sponsor**: IEEE ✨  
-- **Date**: [Insert date]  
+- **Date**: 17/02/23  
 - **Outcome**: 🏆 **Winners!**  
 - **Highlights**: Showcased superior performance, smooth navigation, and precise turns.  
 
@@ -80,8 +80,9 @@ void loop() {
 
 ## 📸 Gallery  
 
-- 📷 **Bot in Action**: *(Upload pictures of the bot, team, and competition setup.)*  
-- 🏅 **Certificate of Achievement**: *(Upload your winning certificate as proof.)*  
+- 📷 **Bot**: ![Bot](/Bot.jpeg)  
+- 🏅 **Certificate of Achievement**: [Project Documentation](/Certificate.pdf)
+  
 
 ---
 
